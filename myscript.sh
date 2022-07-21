@@ -1,5 +1,6 @@
 #!/usr/bin/bash
 #https://medium.com/sysf/bash-scripting-everything-you-need-to-know-about-bash-shell-programming-cd08595f2fba
+#https://gist.github.com/bradtraversy/ac3b1136fc7d739a788ad1e42a78b610
 
 # ECHO COMMAND
 
